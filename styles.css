@@ -9,7 +9,7 @@
 
 .main_box {
     position: relative;
-    background: url('image/desk.jpg') center no-repeat;
+    background: url('desk.jpg') center no-repeat;
     background-size: cover;
     height: 100vh;
 
@@ -132,4 +132,5 @@ transition: all 0.3s linear;
 }
 #check:checked ~  .sidebar_menu .btn_two i{
     opacity: 1;
+
 }
